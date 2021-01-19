@@ -1,0 +1,32 @@
+Solution N1
+
+int a;
+a = 5; 
+
+int b;
+b = 4;
+
+int c;
+c = 6;
+
+int sum = a + b + c;
+
+Solution N2
+
+int x;
+x = 2;
+int a;                     
+int b;           
+int c;
+
+a = x;
+b = a + 3;
+c = a + b;
+
+Solution N3
+
+int x;
+x = 3;
+int a;
+ 
+a = x = x - 1 + x + 1;
