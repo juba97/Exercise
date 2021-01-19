@@ -35,4 +35,4 @@ int x;
 x = 3;
 int a;
  
-a = x = x - 1 + x + 1;
+a = x - 1 + x + 1;
