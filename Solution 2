@@ -41,7 +41,7 @@
         int a;
         int b;
         int n;
-        result;
+        int result;
         
         a = 10;
         b = 15;
