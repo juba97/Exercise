@@ -22,7 +22,14 @@
 */   
 
 {
-    <Code>
+    int number;
+    int remainder;
+    int result;
+    
+    number = 2;
+    
+    remainder = number % 2;
+    result = (number - remainder) + 2;
 }
 
 /*
