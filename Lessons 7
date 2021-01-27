@@ -58,8 +58,8 @@
     int k;
     int result;
 
-    k = 14;
     n = 3;
+    k = 14;
 
     result = k / n;  
 }
