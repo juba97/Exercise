@@ -5,31 +5,33 @@ Chipset
 RAM
 HDD, SSD
 Function
-Human&Computer as a Function
+Human & Computer as a Function
 Logic, Logical Gates
-Transitor  
-
+Transistor
 Programming Language
 Machine Code
 Compiler
 Algorithm
 Roslyn
-
-variable
-variable declaration
-variable assigment
-assignment operator
-variable type
-variable name
-variable initialization
-
-case sensetive
-
+Variable
+Variable Declaration
+Variable Assignment
+Assignment Operator
+Variable Type
+Variable Name
+Variable Initialization
+Literals 
+Operators 
+    Arithmetic Operators
+      +, -, *, /, %
+    Assignment Operator
+      ...
+    Relational and Logical Operators
+      ...
+Types
+  Numbers
+    int, bool ...
+  Text
+Code Block
+Case Sensitive
 Debug
-
-operators:
-  math:
-    +, -, %, /, *
-  assignment:
-    =
-  logic:
