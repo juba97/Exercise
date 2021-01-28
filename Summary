@@ -1,27 +1,43 @@
-Computer Structure
-CPU
-GPU
-Chipset
-RAM
+[Computer Structure] = კომპიუტერის არქიტექტურა არის ტერმინი, რომელიც აღწერს ტექნიკის სხვადასხვა ასპექტს, 
+რომლებიც საჭიროა კომპიუტერული სისტემის მუშაობისთვის.
+
+[CPU]...[Central processing unit] = პროცესორი არის ელექტრონული სქემა კომპიუტერში, რომელიც ასრულებს ინსტრუქციებს.
+
+[GPU]...[Graphics processing unit] = შეუძლია მონაცემთა მრავალი ნაწილი ერთდროულად დაამუშაოს.
+
+[Chipset] = მონაცემთა ნაკადის მართვის სისტემა, რომელიც მართავს მონაცემთა ნაკადს პროცესორს, მეხსიერებას და პერიფერიულ მოწყობილობებს შორის. 
+
+[RAM]...[Random access memory] 
 HDD, SSD
 Function
 Human & Computer as a Function
-Logic, Logical Gates
-Transistor
-Programming Language
-Machine Code
-Compiler
+
+[Logic, Logical Gates] = ლოგიკური ფუნქციის განმახორციელებელი გამოთვლის ან ფიზიკური ელექტრონული მოწყობილობის.
+
+[Transistor] = ტრანზისტორი არის ნახევარგამტარული მოწყობილობა, რომელიც გამოიყენება 
+ელექტრონული სიგნალებისა და ელექტროენერგიის გასამდიდრებლად ან გადართვისთვის.
+
+[Programming Language] = პროგრამირების ენები გამოიყენება კომპიუტერულ პროგრამირებაში ალგორითმების განსახორციელებლად.
+
+[Machine Code] = კომპიუტერული პროგრამა, დაწერილი მანქანების ენაზე. 
+
+[Compiler] = თარგმნის კოდს მანქანისთვის გასაგებ ენაზე.
+
 Algorithm
-Roslyn
-Variable
-Variable Declaration
-Variable Assignment
-Assignment Operator
-Variable Type
-Variable Name
-Variable Initialization
-Literals 
-Operators 
+Roslyn = კომპილატორი
+Variable = ცვლადი
+
+{
+    Variable Declaration 
+    Variable Assignment
+    Assignment Operator
+    Variable Type
+    Variable Name
+    Variable Initialisation
+    Literals 
+    Operators 
+}
+
     Arithmetic Operators
       +, -, *, /, %
     Assignment Operator
