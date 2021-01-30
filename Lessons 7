@@ -202,5 +202,12 @@
 */
 
 {
-    <Code>
+    int n;
+    int m;
+    int result;
+
+    n = 2;
+    m = 8;
+
+    result = (n / m) % 2 + 1;
 }
