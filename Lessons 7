@@ -136,6 +136,7 @@
     int c;
     int d;
     int n;
+    int result;
 
     n = 2344;
 
@@ -153,7 +154,7 @@
     int s2 = b * r2;
     int t3 = c * r3;
     int f4 = d * r4;
-    int result;
+    
 
     result = f1 + s2 + t3 + f4;  
 }
