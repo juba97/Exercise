@@ -47,14 +47,14 @@
 */
 
 {
-    int n; 
-    int k; 
+    int N; 
+    int K; 
     int result;
 
-    n = 3;
-    k = 14;
+    N = 3;
+    K = 14;
 
-    result = k % n;
+    result = K % N;
 }
 
 /*
@@ -73,14 +73,14 @@
 */   
 
 {
-    int n;
-    int k;
+    int N;
+    int K;
     int result;
 
-    k = 14;
-    n = 3;
+    K = 14;
+    N = 3;
 
-    result = k / n;  
+    result = K / N;  
 }
 
 /*
