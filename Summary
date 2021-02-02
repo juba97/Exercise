@@ -25,11 +25,11 @@ Function
 
 [Compiler] = თარგმნის კოდს მანქანისთვის გასაგებ ენაზე.
 
-Algorithm
-Roslyn = კომპილატორი
-Variable = ცვლადი
 
 {
+    Algorithm
+    Roslyn = კომპილატორი
+    Variable = ცვლადი
     Variable Declaration 
     Variable Assignment
     Assignment Operator
