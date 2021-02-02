@@ -3,7 +3,14 @@
 */
 
 {
-   <code>
+   int a; 
+   int b;      
+   int result;
+
+   a = 4;
+   b = 3;
+   
+   result = (a + b + (a - b) * ((2 * (a - b) + 1) % 2)) / 2;
 }
 
 /*
