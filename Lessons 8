@@ -3,14 +3,17 @@
 */
 
 {
-   int a; 
-   int b;      
-   int result;
+   int a;
+   int b;
 
    a = 4;
    b = 3;
-   
-   result = (a + b + (a - b) * ((2 * (a - b) + 1) % 2)) / 2;
+
+   int First  = 2 * (a - b) + 1;
+   int Second = First % 2;
+   int Third  = (a - b) * Second;
+   int Fourth = a + b + Third;
+   int result = Fourth / 2;
 }
 
 /*
