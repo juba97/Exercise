@@ -12,12 +12,12 @@
 
     if (a > b)
     {
-    max = a;
+         max = a;
     }
 
     else
     {
-    max = b;
+         max = b;
     }
 }
 
@@ -65,10 +65,12 @@
     {
         result = 1;
     }
+    
     if (b > a)
     {
         result = -1;
     }
+    
     if (a == b)
     {
         result = 0;
