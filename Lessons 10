@@ -4,8 +4,7 @@
     
     input:        Output: 
     0110      |   True
-    10        |   False
-   
+    10        |   False 
 */
 
 {
