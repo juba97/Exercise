@@ -52,8 +52,9 @@
   P1 P2
 
   input:        Output: 
-  L1 = 2;   |   False
-  L2 = 4;   |   
+  L1 = 2;   |   
+  L2 = 4;   |
+                False 
   P1 = 3;   |
   P2 = 5;   | 
   
