@@ -73,16 +73,14 @@
     P1 = 2; 
     P2 = 8;
 
-    
-
-    if (L1 == P2 || L2 == P1 || L1 == P1 || L2 == P2)
+    if (L1 == P1 || L2 == P2)
     {
-         result = true;
-    }   
-
+        result = true;      
+    }
+    
     else
     {
-        result = false;            
+        result = false;             
     }
 }
 
