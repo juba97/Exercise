@@ -143,5 +143,18 @@
 */
 
 {
-    <Code>
+    int k;
+    bool result;
+
+    k = 20;
+    
+    if (k % 4 == 0)
+    {
+        result = true;            
+    }
+
+    else
+    {
+        result = false;
+    }
 }
