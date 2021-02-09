@@ -38,7 +38,31 @@
 */
 
 {
-    <Code>
+    int a;
+    int b;
+    int c;
+    bool result;
+
+    a = 4;
+    b = 3;
+    c = 4;
+
+    int a1; 
+    int b1; 
+    int c1; 
+
+    a1 = a + b; 
+    b1 = a + c; 
+    c1 = b + c; 
+
+    if (a1 > c && b1 > b && c1 > a)
+    {
+        result = true;
+    }
+    else
+    {
+        result = false;       
+    }
 }
 
 */
