@@ -1,0 +1,59 @@
+/*
+    მოცემულია მთელი რიცხვი. ვიპოვოთ ციფრების ჯამი
+*/
+
+{
+    int n;
+    int i; 
+    int sum;
+
+    n = 127;
+    sum = 0;
+
+    while (n > 0)
+    {
+        i = n % 10;
+        sum = sum + i;
+        n = n / 10;
+    }
+}
+
+/*  
+    მოცემულია მთელი რიცხვი. ვიპოვოთ ლუწი ციფრების ჯამი
+*/
+
+{
+    int i;
+    int n;
+    int sum;
+
+    sum = 0;               
+    n = 5;
+
+    i = 2;
+    while (i <= n)
+    {       
+        sum = sum + i;
+        i = i + 2;
+    }
+}
+
+/*
+    მოცემულია მთელი რიცხვი. შევაბრუნოთ მისი ციფრები
+*/
+
+{
+    int n;
+    int reverse;
+    int remainder;
+    reverse = 0;
+
+    n = 127;
+    
+    while (n > 0)
+    {
+        remainder = n % 10;
+        reverse = (reverse * 10) + remainder;
+        n = n / 10;
+    }
+}
