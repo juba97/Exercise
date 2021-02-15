@@ -77,6 +77,33 @@
     {
         result = false;             
     }
+    
+/*
+    დავადგინოთ კლავს თუ არა ლაზიერი დიაგონალზე პაიკს
+*/
+
+{
+    int L1;
+    int L2;
+    int P1;
+    int P2;
+    bool result;
+
+    L1 = 1;
+    L2 = 1;
+    P1 = 8;
+    P2 = 8;
+    
+    if (L1 - L2 == P1 - P2 || L1 + L2 == P1 + P2 )
+    {
+        result = true;       
+    }
+    else
+    {
+        result = false;
+    }
+}
+       
 }
 
 /*
