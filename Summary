@@ -40,6 +40,8 @@ Function
     Operators 
     Expression = გამოსახულება
     Value = მნიშვნელობა
+    object = არის მშობელი ყველა სხვა დანარჩენი ტიპების.
+    dynamic = არის დინამიური, პროგრამის მსვლელობასთან ერთად იცვლება მისი ტიპები
 }
 
       Arithmetic Operators
