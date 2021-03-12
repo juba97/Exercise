@@ -1,7 +1,7 @@
 
 **C# includes some predefined value types and reference types. The following table lists predefined data types:**  
 
-```JS 
+```C++
 (Type) 			     (Description)   		                                            (Range)
 		     		
 byte             |    8-bit unsigned integer                                            |   0 to 255   
