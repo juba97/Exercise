@@ -1,33 +1,33 @@
 
 **C# includes some predefined value types and reference types. The following table lists predefined data types:**  
 
-```js
+```
 Type   			   Description   		        Range
 		     		
-byte      |   8-bit unsigned integer                    |    0 to 255            
-sbyte	  |	  8-bit signed integer                  |   -128 to 127        
-short	  |	  16-bit signed integer	                |   -32,768 to 32,767  
-ushort    |   16-bit unsigned integer                   |   0 to 65,535        
-int       |   32-bit signed integer                     |   -2,147,483,648     
-uint      |   32-bit unsigned integer                   |   0 to 4,294,967,295 
+byte             |    8-bit unsigned integer                    |    0 to 255            
+sbyte	         |    8-bit signed integer                  |   -128 to 127        
+short	         |    16-bit signed integer	                |   -32,768 to 32,767  
+ushort           |   16-bit unsigned integer                   |   0 to 65,535        
+int              |   32-bit signed integer                     |   -2,147,483,648     
+uint             |   32-bit unsigned integer                   |   0 to 4,294,967,295 
 
-long      |   64-bit signed integer                     |  -9,223,372,036,854,775,808 to              
+long             |   64-bit signed integer                     |  -9,223,372,036,854,775,808 to              
                                                             9,223,372,036,854, 775,807
                                                                                                                                                                                                                                                                                                      
-ulong     |  64-bit unsigned integer                    |   0 to 18,446,744,073,709,551,615
+ulong            |  64-bit unsigned integer                    |   0 to 18,446,744,073,709,551,615
 
-float     |  32-bit Single-precision
-             floating point type                        |   -3.402823e38 to 3.402823e38 
+float            |  32-bit Single-precision
+                    floating point type                        |   -3.402823e38 to 3.402823e38 
              
-double    |  64-bit double-precision 
-              floating point type                       |   -1.79769313486232e308 to 
+double           |  64-bit double-precision 
+                    floating point type                       |   -1.79769313486232e308 to 
                                                              1.79769313486232e308
 
-decimal   |  128-bit decimal type for                   |   (+ or -)1.0 x 10e-28  to 
-               financial and monetary                       7.9 x 10e28                             
-               calculations 
+decimal          |  128-bit decimal type for                   |   (+ or -)1.0 x 10e-28  to 
+                   financial and monetary                       7.9 x 10e28                             
+                   calculations 
                
-char      |  16-bit single                              |  Any valid character, e.g. a,*,
+char             |  16-bit single                              |  Any valid character, e.g. a,*,
              Unicode character                            \x0058 (hex), or\u0058 (Unicode) 
              
 bool      |  8-bit logical                              | True or False
