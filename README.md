@@ -41,11 +41,11 @@ bool             |  8-bit logical                               | True or False
 object           |  Base type of  
                    all other types.                             |  
              
-string    | A sequence of 
-            Unicode characters    
+string           | A sequence of                                |
+                   Unicode characters    
                                                 
-DateTime  | 64-bit unsigned integer                             |  0:00:00am 1/1/01 to  
-                                                                    11:59:59pm 12/31/9999
+DateTime         | 64-bit unsigned integer                             |  0:00:00am 1/1/01 to  
+                                                                          11:59:59pm 12/31/9999
                                           
 ```
 
