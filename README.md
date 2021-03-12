@@ -1,7 +1,7 @@
 
 **C# includes some predefined value types and reference types. The following table lists predefined data types:**  
 
-```c#
+```C#
 Type   			   Description   		               Range
 		     		
 byte             |    8-bit unsigned integer                    |    0 to 255            
@@ -17,30 +17,30 @@ long             |   64-bit signed integer                      |  -9,223,372,03
 ulong            |  64-bit unsigned integer                     |   0 to 18,446,744,073,709,551,615
 
 float            |  32-bit Single-precision
-                    floating point type                        |   -3.402823e38 to 3.402823e38 
+                    floating point type                         |   -3.402823e38 to 3.402823e38 
              
 double           |  64-bit double-precision 
-                    floating point type                        |   -1.79769313486232e308 to 
+                    floating point type                         |   -1.79769313486232e308 to 
                                                                     1.79769313486232e308
 
-decimal          |  128-bit decimal type for                   |   (+ or -)1.0 x 10e-28  to 
+decimal          |  128-bit decimal type for                    |   (+ or -)1.0 x 10e-28  to 
                    financial and monetary                          7.9 x 10e28                             
                    calculations 
                
-char             |  16-bit single                              |  Any valid character, e.g. a,*,
+char             |  16-bit single                               |  Any valid character, e.g. a,*,
                     Unicode character                             \x0058 (hex), or\u0058 (Unicode) 
              
 bool             |  8-bit logical                               | True or False
                    true/false value  
              
-object    |  Base type of  
-            all other types.                                   |  
+object           |  Base type of  
+                   all other types.                             |  
              
 string    | A sequence of 
             Unicode characters    
-                  |  
-DateTime  | 64-bit unsigned integer                             |  0:00:00am 1/1/01 to  
-                                                                   11:59:59pm 12/31/9999
+                                                
+DateTime  | 64-bit unsigned integer                              |  0:00:00am 1/1/01 to  
+                                                                    11:59:59pm 12/31/9999
                                           
 ```
 
