@@ -63,3 +63,24 @@
     Console.WriteLine();
     Console.WriteLine("Sum is " + sum);
 }
+
+/*
+    Write a program in C# Sharp to display the pattern like right angle triangle using an asterisk.
+    outout 
+    *
+    **
+    ***
+    ****
+    *****
+*/
+
+{
+    int i, j, rows;
+    rows = 5;
+    for (i = 1; i <= rows; i++)
+    {
+        for (j = 1; j <= i; j++)
+            Console.Write("*");
+        Console.Write("\n");
+    }
+}
