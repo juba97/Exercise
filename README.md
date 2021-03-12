@@ -4,12 +4,17 @@
 ```C#
 Type   			   Description   		               Range
 		     		
-byte             |    8-bit unsigned integer                    |    0 to 255            
-sbyte	         |    8-bit signed integer                      |   -128 to 127        
+byte             |    8-bit unsigned integer                    |    0 to 255   
+
+sbyte	         |    8-bit signed integer                      |   -128 to 127  
+
 short	         |    16-bit signed integer	                |   -32,768 to 32,767  
-ushort           |   16-bit unsigned integer                    |   0 to 65,535        
-int              |   32-bit signed integer                      |   -2,147,483,648     
-uint             |   32-bit unsigned integer                    |   0 to 4,294,967,295 
+
+ushort           |    16-bit unsigned integer                   |   0 to 65,535        
+
+int              |    32-bit signed integer                     |   -2,147,483,648    
+
+uint             |    32-bit unsigned integer                   |   0 to 4,294,967,295 
 
 long             |   64-bit signed integer                      |  -9,223,372,036,854,775,808 to              
                                                                     9,223,372,036,854, 775,807
@@ -39,7 +44,7 @@ object           |  Base type of
 string    | A sequence of 
             Unicode characters    
                                                 
-DateTime  | 64-bit unsigned integer                              |  0:00:00am 1/1/01 to  
+DateTime  | 64-bit unsigned integer                             |  0:00:00am 1/1/01 to  
                                                                     11:59:59pm 12/31/9999
                                           
 ```
