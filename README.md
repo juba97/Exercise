@@ -44,8 +44,8 @@ object           |  Base type of
 string           | A sequence of                                |
                    Unicode characters    
                                                 
-DateTime         | 64-bit unsigned integer                             |  0:00:00am 1/1/01 to  
-                                                                          11:59:59pm 12/31/9999
+DateTime         | 64-bit unsigned integer                       |  0:00:00am 1/1/01 to  
+                                                                    11:59:59pm 12/31/9999
                                           
 ```
 
