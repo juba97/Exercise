@@ -12,7 +12,8 @@ short	         |    16-bit signed integer	                |   -32,768 to 32,767
 
 ushort           |    16-bit unsigned integer                   |   0 to 65,535        
 
-int              |    32-bit signed integer                     |   -2,147,483,648    
+int              |    32-bit signed integer                     |   -2,147,483,648 to 2,147,483,647
+                   
 
 uint             |    32-bit unsigned integer                   |   0 to 4,294,967,295 
 
