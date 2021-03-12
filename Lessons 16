@@ -32,3 +32,17 @@
     int r;
     r = y - x;
 }
+
+/*
+    Write a program in C# Sharp to display the multiplication table of a given integer.
+*/
+
+{
+    int j = 0;
+    int n = 6;
+
+    for (j = 1; j <= 10; j++)
+    {
+        Console.Write("{0} X {1} = {2} \n", n, j, n * j);     
+    }
+}
