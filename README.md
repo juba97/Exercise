@@ -4,7 +4,7 @@
 ```C#
 (Type) 			     (Description)   		                                            (Range)
 		     		
-byte             |    8-bit unsigned integer                                            |   0 to 255   
+byte             |    8-bit unsigned integer                                            |    0 to 255   
 sbyte	         |    8-bit signed integer                                              |   -128 to 127  
 short	         |    16-bit signed integer	                                        |   -32,768 to 32,767  
 ushort           |    16-bit unsigned integer                                           |    0 to 65,535        
