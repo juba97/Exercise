@@ -71,7 +71,7 @@
 {
     int even = 0;
     int sum = 0;
-    for (int i = 1; i < 10; i+= 2)
+    for (int i = 1; i < 10; i+=2)
     {
         even = even + 2;
         Console.WriteLine("Even is " + even);
