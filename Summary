@@ -42,6 +42,8 @@ Function
     Value = მნიშვნელობა
     object = არის მშობელი ყველა სხვა დანარჩენი ტიპების.
     dynamic = არის დინამიური, პროგრამის მსვლელობასთან ერთად იცვლება მისი ტიპები
+    Convert.Toint32
+    Parse
 }
 
       Arithmetic Operators
