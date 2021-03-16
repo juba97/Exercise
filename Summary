@@ -46,6 +46,7 @@ Function
     Convert.Toint32
     Parse
     Tryparse, Try Catch, Exception
+    @identifier = იდენტიფიკატორი არის სახელი, რომელიც ენიჭება მეთოდს, ცვლადს ან მომხმარებლის მიერ განსაზღვრულ სხვა ნივთს.
 }
 
       Arithmetic Operators
